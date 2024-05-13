@@ -67,7 +67,7 @@ class  Runner3{
         obj.setNavigator("Yes");
         obj.setSafeGuard("yes");
 
-        System.out.println("Car : BMW");
+        System.out.println("Car : Audi");
         System.out.println("Price : " + obj.getPrice());
         System.out.println("FuelType : " + obj.getFuelType());
         System.out.println("Colour : " + obj.getColour());
