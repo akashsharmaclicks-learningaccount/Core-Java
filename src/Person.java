@@ -34,9 +34,9 @@ class runner2{
     public static void main(String[] args) {
         Student obj = new Student();
         obj.setRoll_no(201599003);
-        obj.setCollege("GLA University");
+        obj.setCollege("Harvard University");
         obj.setAge(23);
-        obj.setName("Ankit Sharma");
+        obj.setName("John Doe");
         System.out.println("Name: " + obj.getName());
         System.out.println("Age: " + obj.getAge());
         System.out.println("Roll No: " + obj.getRoll_no());
